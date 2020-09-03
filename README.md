@@ -33,7 +33,7 @@ Team Sonic_Boom:
 2. Akshaya N
 3. Thrisha
 4. Nitheshkumar 
-5. Dikshith 
+5. Diksith 
 
 **Feel free to use the code and suggest changes or contribute to the code or the documentation by raising an issue or creating a branch and starting a pull request.**
 
