@@ -1,7 +1,6 @@
 import requests
 #accesskey is the pyhton script used to save the api keys. Please dont hardcode your api keys, especially if your code is opensource.
 import accesskey 
-from ipstack import GeoLookup
 import json
 
 def num_verify():
