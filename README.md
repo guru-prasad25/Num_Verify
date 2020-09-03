@@ -1,7 +1,7 @@
 # Num_Verify
 ## A phone number authenticity verification using REST APIs
 This is a light weight code snippet which uses the API-layer's ipstack API to gather validity, location and other data for a given phone number.
-Create an account with [NumVerify] (https://numverify.com/product) to begin with. 
+Create an account with NumVerify (https://numverify.com/product) to begin with. 
 
 Dependencies include: (USE PIP)
 1. Requests 
