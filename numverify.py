@@ -3,10 +3,10 @@ import requests
 import accesskey 
 from ipstack import GeoLookup
 import json
-import currency_converter
 
 def num_verify():
     phone_number = input("Please enter your phone number: ")
+    
 
 
 
@@ -20,3 +20,6 @@ def num_verify():
     resp = json.loads(response.content)
     if resp['valid']:
         print("the number is valid")
+  
+
+        
