@@ -1,7 +1,7 @@
 import requests
-#accesskey is the pyhton script used to save the api keys. Please dont hardcode your api keys, especially if your code is opensource.
+#accesskey is the python file used to save the api keys. Please dont hardcode your api keys, especially if your code is opensource.
 import accesskey 
-import json
+import json 
 
 def num_verify():
     phone_number = input("Please enter your phone number: ")
